@@ -2,8 +2,11 @@
 # LIST OF MAINTAINED THIRD-PARTY EXTENSIONS 
 This repository serves as Place to share currently maintained extensions. The extension will be included if:
 - Have been updated at least one year back
-- Have a licence that is compatible to Yii2 license
+- Have a license that is compatible to Yii2 license
+### CATEGORIES
+1. [Widgets](categories/WIDGETS.md)
 
+### CONTRIBUTING
 To include your list of extensions create a Pull-request with the following information:
 - Extension name  as markdown `##`
 - Author name
