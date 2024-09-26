@@ -31,3 +31,11 @@ Yii2 charts widget - wrapper for the [ApexCharts.js](https://apexcharts.com/).
 - : -   [onmotion1@gmail.com](mailto:onmotion1@gmail.com)
 - License: MIT
 - Link: https://github.com/onmotion/yii2-widget-apexcharts
+
+## Flatpickr Widget
+Flatpickr widget wrapper for [Flatpickr.js](https://flatpickr.js.org/).
+
+- Author: Chris Smith
+- Email https://fivedevs.com/
+- License: BSD-3
+- Link: https://github.com/cgsmith/yii2-flatpickr-widget
