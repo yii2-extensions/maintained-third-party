@@ -6,6 +6,9 @@ This repository serves as Place to share currently maintained extensions. The ex
 ### CATEGORIES
 1. [Widgets](categories/WIDGETS.md)
 
+### Utilities
+1. [Utilities](categories/Utilities.md)
+
 ### CONTRIBUTING
 To include your list of extensions create a Pull-request with the following information:
 - Extension name  as markdown `##`
