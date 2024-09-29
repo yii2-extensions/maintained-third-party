@@ -39,3 +39,35 @@ Flatpickr widget wrapper for [Flatpickr.js](https://flatpickr.js.org/).
 - Email https://fivedevs.com/
 - License: BSD-3
 - Link: https://github.com/cgsmith/yii2-flatpickr-widget
+
+## Cookie Monster
+Cookie warning widget.
+
+- Author: [Bizley](https://github.com/bizley)
+- Email: [pawel.bizley@gmail.com](mailto:pawel.bizley@gmail.com)
+- License: BSD-3
+- Link: https://github.com/bizley/yii2-cookiemonster
+
+## Quill WYSIWYG editor
+[Quill](https://quilljs.com/) editor widget.
+
+- Author: [Bizley](https://github.com/bizley)
+- Email: [pawel.bizley@gmail.com](mailto:pawel.bizley@gmail.com)
+- License: Apache License 2.0
+- Link: https://github.com/bizley/yii2-quill
+
+## ContentTools WYSIWYG editor
+[ContentTools](https://getcontenttools.com/) editor widget.
+
+- Author: [Bizley](https://github.com/bizley)
+- Email: [pawel.bizley@gmail.com](mailto:pawel.bizley@gmail.com)
+- License: Apache License 2.0
+- Link: https://github.com/bizley/yii2-content-tools
+
+## Ajax drop down widget
+Form dropdown field with data loaded via AJAX. 
+
+- Author: [Bizley](https://github.com/bizley)
+- Email: [pawel.bizley@gmail.com](mailto:pawel.bizley@gmail.com)
+- License: BSD-3
+- Link: https://github.com/bizley/Yii2-AjaxDropDown
